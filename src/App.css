@@ -1,0 +1,27 @@
+.CardUser {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 40px;
+  padding-top: 20px;
+  border-radius: 40px;
+}
+
+.ImageUser {
+  width: 168px;
+  height: 168px;
+}
+
+.CardProfil {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.CardComment {
+  display: block;
+  justify-content: center;
+  width: 300px;
+  padding: 60px;
+}
